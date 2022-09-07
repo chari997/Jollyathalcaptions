@@ -18,7 +18,8 @@
 - `API_ID` - Get This Value from [my.telegram.org](https://my.telegram.org)
 -  `API_HASH` - Get This Value from [my.telegram.org](https://my.telegram.org)
 -  `TG_BOT_TOKEN` - Get This Value from [@BotFather](https://my.telegram.org)
-
+-   `CAPTION_POSITION` 
+-   `CAPTION_TEXT`
 <br><br>
 
 CONTRIBUTIONS AND SUGGESTIONS ARE WELCOME !!
