@@ -1,4 +1,4 @@
-# Jollyathalcaptions
+# Jollyathalcaption
 <p align="center">
 <img src="https://telegra.ph/file/f222ad812944e67c57e58.jpg" width="520", height="520"></p>
 
